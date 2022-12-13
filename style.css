@@ -1,0 +1,10 @@
+body{
+    color: blueviolet;
+    font-weight: bold;
+    word-spacing: 12px;
+    background-color: rgb(252, 210, 155);
+}
+button{
+    width: 92px;
+    height: 38px;
+}
